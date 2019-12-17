@@ -1,7 +1,7 @@
 {
     "symbol": "BIP",
     "name": "BipCash",
-    "description": "peer-to-peer decentralized e-cash",
+    "description": "BipCash has a near-zero fee transactional system. Designed to be a purely peer-to-peer decentralized eletronic version of cash.",
     "website": "https://www.bipcash.com",
     "communities": {
         "email": "bip@bipcash.com",
