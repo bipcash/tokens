@@ -1,0 +1,11 @@
+{
+    "symbol": "BIP",
+    "name": "BipCash",
+    "description": "peer-to-peer decentralized e-cash",
+    "website": "https://www.bipcash.com",
+    "communities": {
+        "email": "bip@bipcash.com",
+        "twitter": "https://twitter.com/bipcash1"
+    }
+    
+}
